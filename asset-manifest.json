@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Drjonami/Qr-Code-React/static/css/main.bed73e8f.css",
+    "main.js": "/Drjonami/Qr-Code-React/static/js/main.f3211cca.js",
+    "index.html": "/Drjonami/Qr-Code-React/index.html",
+    "main.bed73e8f.css.map": "/Drjonami/Qr-Code-React/static/css/main.bed73e8f.css.map",
+    "main.f3211cca.js.map": "/Drjonami/Qr-Code-React/static/js/main.f3211cca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bed73e8f.css",
+    "static/js/main.f3211cca.js"
+  ]
+}
